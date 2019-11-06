@@ -22,7 +22,7 @@ public class login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        //////////// textviews
+        //////////// textview
         txt_forget_password = findViewById(R.id.txt_forget_password);
         txt_create_account = findViewById(R.id.txt_create_account);
         /////////// edittexts
